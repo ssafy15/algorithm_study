@@ -19,6 +19,8 @@ package main.java.study.a02_tp.d01.p2531;
  * 만약 다시 푼다면 카운팅 배열 형식으로 푸는것이 시간복잡도 면에서 조금더 안전할 것 같다.
  *
  * */
+import java.io.*;
+import java.util.*;
 
 public class Main_박다빈 {
   public static void main(String[] args) throws Exception {
